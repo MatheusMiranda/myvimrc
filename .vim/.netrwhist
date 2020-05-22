@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/miranda'
+let g:netrw_dirhist_2='/home/miranda/Documents'
+let g:netrw_dirhist_3='/home/miranda/Documents/study'
+let g:netrw_dirhist_4='/home/miranda/Documents/study/deps'
+let g:netrw_dirhist_5='/home/miranda/Documents/study'
+let g:netrw_dirhist_6='/home/miranda/Documents/study/deps'
+let g:netrw_dirhist_7='/home/miranda/Documents/study'
+let g:netrw_dirhist_8='/home/miranda'
+let g:netrw_dirhist_9='/home/miranda/Documents/study'
